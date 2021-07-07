@@ -1,2 +1,2 @@
 #  Studying Python
- Exercícios que desenvolvi na faculdade e em cursos livres.
+ Atividades desenvolvidas na faculdade e em cursos livres.
